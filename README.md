@@ -94,16 +94,14 @@
 <br/>  
 
 
-## Github Stats  
+<!-- ## Github Stats  
 
 
 <div align="center">
   <a href="https://github.com/ismanolgarcia">
 <img height="100em" src= "https://github-readme-stats.vercel.app/api?username=ismanolgarcia&show_icons=true&count_private=true&hide_border=true" />
 <img   height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismanolgarcia&layout=compact&langs_count=7&"/>
-
-
-</div>  
+</div>   -->
 
 
 <!-- <br/>   -->
@@ -120,10 +118,6 @@
 
 
 ----
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ismanolgarcia&&style=flat-square" align="center" />
-</div>  
-  
 
 
 <div align="center">
@@ -133,11 +127,6 @@
                     align="center"
                 />
             </a>
-            <a href="https://www.buymeacoffee.com/ismanolgarcia" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" 
-                    align="center"
-                />
-            </a></div>
+</div> 
 <br />
 
