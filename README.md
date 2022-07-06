@@ -38,8 +38,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Backend  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -49,8 +47,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Tools  
 <div align="center">  
@@ -63,7 +59,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -94,26 +89,14 @@
 <br/>  
 
 
-<!-- ## Github Stats  
 
-
-<div align="center">
-  <a href="https://github.com/ismanolgarcia">
-<img height="100em" src= "https://github-readme-stats.vercel.app/api?username=ismanolgarcia&show_icons=true&count_private=true&hide_border=true" />
-<img   height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismanolgarcia&layout=compact&langs_count=7&"/>
-</div>   -->
-
-
-<!-- <br/>   -->
-
-# Blog posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!-- <br/>   -->
+
 
 ----
-
 
 <div align="center">
             <a href="https://paypal.me/ismanolgarcia" target="_blank" style="display: inline-block;">
