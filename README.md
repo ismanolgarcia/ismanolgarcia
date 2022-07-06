@@ -92,7 +92,8 @@
 ## Latest Blog Posts
 <div align="justify">
 <!-- BLOG-POST-LIST:START -->
-
+- [Distros Linux para Principiantes](https://blog.ismanolgarcia.com/distros-linux-para-principiantes)
+- [Bienvenidos a mi blog personal.](https://blog.ismanolgarcia.com/bienvenidos-a-mi-blog-personal)
 <!-- BLOG-POST-LIST:END -->
 </div>  
 
