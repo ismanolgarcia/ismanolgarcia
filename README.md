@@ -1,6 +1,6 @@
 ### <div align="center">I'm Ismanol García self-taught software engineer 👨‍💻 from 🇩🇴<div>  
   
-<br>
+
 <div align="justify">
 
 - 🔭 I'm currently working on me  
@@ -16,7 +16,7 @@
   
   </div>
 
-<br/>  
+ 
 
 
 
@@ -56,8 +56,6 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 ## Connect with me  
 
@@ -108,6 +106,4 @@
                     align="center"
                 />
             </a>
-</div> 
-<br />
-
+</div>
