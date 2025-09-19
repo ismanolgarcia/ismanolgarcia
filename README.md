@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2001.<br>📚 I'm currently learning about frontend.<br>📝 I regularly write articles on https://blog.ismanolgarcia.com/</p>
+<p align="left">✨ Creating bugs since 2001.<br>📚 I'm currently learning about frontend.<br></p>
 
 ###
 
